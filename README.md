@@ -1,6 +1,5 @@
 🌿 Machine Learning Web App - Iris Species Prediction 🌸
 
-Welcome to the Iris Species Prediction Web App! 
 
 🚀 This is an interactive machine learning-powered application built using Streamlit, where you can predict the species of an Iris flower based on its sepal and petal dimensions. Just adjust the sliders, hit predict, and see the magic happen! ✨
 
@@ -15,22 +14,15 @@ Welcome to the Iris Species Prediction Web App!
 ✅ Fast & Lightweight – Optimized for speed and efficiency without any lag.
 
 🛠 Tech Stack & Tools
-🚀 Python – The core language powering the machine learning logic.
-🖥 Streamlit – For creating a seamless interactive web app.
-🧠 Scikit-Learn – Used for training and optimizing the ML model.
-📦 Pickle – To store and load the pre-trained model efficiently.
+-🚀 Python – The core language powering the machine learning logic.
+-🖥 Streamlit – For creating a seamless interactive web app.
+-🧠 Scikit-Learn – Used for training and optimizing the ML model.
+-📦 Pickle – To store and load the pre-trained model efficiently.
 
 🔥 How It Works?
-1️⃣ Adjust feature values – Use sliders to set sepal & petal dimensions.
-2️⃣ Hit "Predict Species" – Let the ML model analyze and predict the species.
-3️⃣ View Results Instantly! – The app will display whether it's Setosa, Versicolor, or Virginica.
-
-🔬 About the Model
-The model is trained on the Iris dataset, a classic dataset used in machine learning classification problems.
-🌼 Three Species Covered:
-🔹 Setosa
-🔹 Versicolor
-🔹 Virginica
+-1️⃣ Adjust feature values – Use sliders to set sepal & petal dimensions.
+-2️⃣ Hit "Predict Species" – Let the ML model analyze and predict the species.
+-3️⃣ View Results Instantly! – The app will display whether it's Setosa, Versicolor, or Virginica.
 
 We used Scikit-Learn's classification model and saved it using Pickle for easy deployment.
 
