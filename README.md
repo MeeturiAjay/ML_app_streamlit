@@ -1,12 +1,17 @@
 🌿 Machine Learning Web App - Iris Species Prediction 🌸
 
 Welcome to the Iris Species Prediction Web App! 
+
 🚀 This is an interactive machine learning-powered application built using Streamlit, where you can predict the species of an Iris flower based on its sepal and petal dimensions. Just adjust the sliders, hit predict, and see the magic happen! ✨
 
 🌟 Key Features
+
 ✅ Intuitive & Interactive UI – Clean, minimal, and user-friendly interface powered by Streamlit.
+
 ✅ Real-Time Predictions – Simply adjust the feature values, and the model instantly predicts the iris species.
+
 ✅ Pre-Trained ML Model – Uses a robust classification model trained on the famous Iris dataset.
+
 ✅ Fast & Lightweight – Optimized for speed and efficiency without any lag.
 
 🛠 Tech Stack & Tools
